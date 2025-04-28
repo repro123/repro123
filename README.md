@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bello Ibrahim
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning frontend development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any pprojects
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a medical doctor
